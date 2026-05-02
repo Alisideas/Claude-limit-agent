@@ -46,8 +46,8 @@ claude --version
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-limit-agent.git
-cd claude-limit-agent
+git clone https://github.com/Alisideas/Claude-limit-agent.git
+cd Claude-limit-agent
 ```
 
 Make the script executable:
